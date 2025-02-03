@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Tutorial EPortfolio"
+		"liveServer.settings.multiRootWorkspaceName": "Tutorial EPortfolio",
+		"liveServer.settings.port": 5501
 	}
 }
